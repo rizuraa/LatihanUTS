@@ -1,7 +1,7 @@
 # LatihanUTS
 Pengumpulan kisi-kisi uts
 <br><br>
-![uts](https://user-images.githubusercontent.com/81940188/116980083-028f3400-acf0-11eb-8734-c7a9db129436.PNG)
+![uts](https://user-images.githubusercontent.com/81940188/116980847-f22b8900-acf0-11eb-83b5-f3dd0cd791da.PNG)
 <br>
 pada ui design diatas dibuat menggunakan QtDesigner dengan detail komponen 
 <br>
